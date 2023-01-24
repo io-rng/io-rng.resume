@@ -16,13 +16,7 @@
       
       <p> Work experience: Lawyer (2010-present). <a href="https://www.beer-co.com/" title="UBC Grop site"> Company UBC Group.</a> </p>
 
-      <p>Interests now:</p>
-        <ul>
-          <li>Learning HTML, CSS.</li>
-        <li>Watching movies, TV-shows from time to time.</li>
-       </ul>
-
-       <p><img src="images/bag.gif" alt="Tree"></p>
+        <p><img src="images/bag.gif" alt="Tree"></p>
         <h2>One of my mails to the apple support.      
         </h2>
       
